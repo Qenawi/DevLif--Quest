@@ -1,6 +1,9 @@
 # DevLife Quest
 Welcome to DevLife Quest:   This text-based game is designed for developers to reflect on life events using gamification. Embark on a journey to level up your character by making strategic choices in upgrading aspects of your developer life, including home, transportation, income, and family.
 
+![DevLife Quest Logo](https://raw.githubusercontent.com/Qenawi/DevLif--Quest/main/generated_plot2.png)
+
+
 ## Getting Started
 
 
